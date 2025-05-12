@@ -61,6 +61,6 @@ ORDER BY promotion, location_id, week;
 * **Excel:** For statistical calculations and data validation.
 * **PowerPoint:** For visual presentation of findings and recommendations.
 
-## 🚀 Featured Projects Line
+## 🚀 DataSet
 
-* 🔎 [A/B Test Analysis (Fast Food Marketing Campaign)](link-to-your-project) - Conducted a robust A/B test using BigQuery SQL, Excel, and PowerPoint, identifying the most effective marketing promotion.
+ (https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test) 
