@@ -46,7 +46,7 @@ This project conducts a comprehensive A/B Test analysis using the Fast Food Mark
 SELECT location_id, promotion, week, SUM(sales_in_thousands) AS total_sales
 FROM `tc-da-1.turing_data_analytics.wa_marketing_campaign`
 GROUP BY location_id, promotion, week
-ORDER BY promotion, location_id, week;
+ORDER BY promotion, location_id, week;,
 
 ---
 
