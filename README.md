@@ -48,6 +48,8 @@ FROM `tc-da-1.turing_data_analytics.wa_marketing_campaign`
 GROUP BY location_id, promotion, week
 ORDER BY promotion, location_id, week;
 
+---
+
 ## Tools Used
 
 - **BigQuery SQL**: Data extraction and aggregation  
